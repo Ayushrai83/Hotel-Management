@@ -1,6 +1,5 @@
 package com.gurukul.Hotel.repo;
 
-import com.phegondev.PhegonHotel.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
